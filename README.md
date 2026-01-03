@@ -1,5 +1,5 @@
 # AI_intro_projects01
-# Iris Flower Classification (Weekend ML Project)
+# Iris Flower Classification (ML Project)
 
 ## Objective
 Classifying data into categories based on certain qualifications, in this case building a supervised machine learning model that predicts the species of an iris flower
