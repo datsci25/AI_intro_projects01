@@ -1,5 +1,5 @@
 # AI_intro_projects01
-# Iris Flower Classification (ML Project)
+# #1 --> Iris Flower Classification (ML Project)
 
 ## Objective
 Classifying data into categories based on certain qualifications, in this case building a supervised machine learning model that predicts the species of an iris flower
@@ -28,3 +28,14 @@ Classifying data into categories based on certain qualifications, in this case b
 - K-Nearest Neighbors
 - Google colab
 - github
+
+
+
+# #2 --> Daily Mood Analyzer (ML Project)
+
+# Description:
+A simple Python program that uses natural language processing to analyze the sentiment of a sentence and classify it as either positive, neutral, or negative.
+
+## How to run the project
+pip install textblob
+python mood_analyzer.py
