@@ -39,3 +39,25 @@ A simple Python program that uses natural language processing to analyze the sen
 ## How to run the project
 pip install textblob
 python mood_analyzer.py
+
+
+
+# #3 --> Productivity Tracker
+
+## Objective
+The objective of this project is to create a simple Python program that tracks how time is spent on different daily activities and calculates a productivity score based on those habits.
+
+## Description
+This project allows a user to input the number of hours they spent studying, coding, exercising, and using social media during the day. The program then calculates a productivity score using a weighted formula and provides feedback on how productive the day was.
+
+## Features
+- Collects user input for daily activities
+- Calculates a productivity score using custom weights
+- Provides feedback based on the score
+
+## Skills Demonstrated
+
+- Python user input
+- Conditional logic (if/else)
+- Basic data analysis
+- Data visualization with matplotlib
